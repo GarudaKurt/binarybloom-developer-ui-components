@@ -11,7 +11,7 @@ type MenuItem = {
 const componentMenu: MenuItem[] = [
   { title: "Buttons", href: "/buttons" },
   { title: "Sheets", href: "/sheets" },
-  { title: "Calendar", href: "/calendar" },
+  { title: "Calendar", href: "/calendars" },
   { title: "Avatars", href: "/avatars" },
   { title: "Carousels", href: "/carousels" },
   { title: "Labels", href: "/labels" },

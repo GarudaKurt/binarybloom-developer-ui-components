@@ -26,6 +26,7 @@ const config: Config = {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
 			primaryColor: "#8054DA",
+			dateMiddleColor: "#B692F6",
 			hoverPrimaryColor: "#53389E",
 			secondaryColor: "#262626",
 			warnColor: "#E02727",
