@@ -8,7 +8,7 @@ export default function ButtonComponent() {
 
   // Tailwind classes for buttons
   const btnSm =
-     "flex items-center justify-center gap-2 text-base text-white bg-primaryColor hover:bg-hoverPrimaryColor h-10 w-32 rounded-3xl border-2 border-white transition duration-100 hover:scale-105"
+     "flex items-center justify-center gap-2 text-base text-white bg-primaryColor hover:bg-hoverPrimaryColor h-10 w-32 rounded-2xl border-2 border-white transition duration-100 hover:scale-105"
   const btnMd =
     "flex items-center justify-center gap-2 text-base text-white bg-primaryColor hover:bg-hoverPrimaryColor h-10 w-48 rounded-3xl border-2 border-white transition duration-100 hover:scale-105"
   const btnLg =
